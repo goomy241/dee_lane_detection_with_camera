@@ -1,0 +1,35 @@
+{
+  "package_name": "lane_msgs",
+  "output_dir": "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_typesupport_fastrtps_c/lane_msgs",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource",
+  "idl_tuples": [
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs:msg/LaneMarking.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs:msg/LaneMarkingArray.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs:msg/LaneMarkingArrayBoth.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs:msg/LaneMarkingProjected.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs:msg/LaneMarkingProjectedArray.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs:msg/LaneMarkingProjectedArrayBoth.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/opt/ros/humble/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/humble/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_fastrtps_c/rosidl_typesupport_fastrtps_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_fastrtps_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/idl__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/idl__type_support_c.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/msg__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/msg__type_support_c.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/srv__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/srv__type_support_c.cpp.em",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs/msg/LaneMarking.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs/msg/LaneMarkingArray.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs/msg/LaneMarkingArrayBoth.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs/msg/LaneMarkingProjected.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs/msg/LaneMarkingProjectedArray.idl",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_msgs/rosidl_adapter/lane_msgs/msg/LaneMarkingProjectedArrayBoth.idl",
+    "/opt/ros/humble/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/humble/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

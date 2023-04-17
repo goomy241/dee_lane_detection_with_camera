@@ -1,0 +1,16 @@
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/lib/lane_detection_projection/lane_detection_projection_node
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/ament_index/resource_index/package_run_dependencies/lane_detection_projection
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/ament_index/resource_index/parent_prefix_path/lane_detection_projection
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/environment/ament_prefix_path.sh
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/environment/ament_prefix_path.dsv
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/environment/path.sh
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/environment/path.dsv
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/local_setup.bash
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/local_setup.sh
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/local_setup.zsh
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/local_setup.dsv
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/package.dsv
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/ament_index/resource_index/packages/lane_detection_projection
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/cmake/lane_detection_projectionConfig.cmake
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/cmake/lane_detection_projectionConfig-version.cmake
+/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_projection/share/lane_detection_projection/package.xml

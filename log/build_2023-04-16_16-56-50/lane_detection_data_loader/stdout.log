@@ -1,0 +1,23 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/lane_detection_data_loader_node.dir/src/lane_detection_data_loader.cpp.o[0m
+[100%] [32m[1mLinking CXX executable lane_detection_data_loader_node[0m
+[100%] Built target lane_detection_data_loader_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/lib/lane_detection_data_loader/lane_detection_data_loader_node
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/resources/laneMarks.csv
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/resources/laneVideo.h264
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/ament_index/resource_index/package_run_dependencies/lane_detection_data_loader
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/ament_index/resource_index/parent_prefix_path/lane_detection_data_loader
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/environment/ament_prefix_path.sh
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/environment/ament_prefix_path.dsv
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/environment/path.sh
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/environment/path.dsv
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/local_setup.bash
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/local_setup.sh
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/local_setup.zsh
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/local_setup.dsv
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/package.dsv
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/ament_index/resource_index/packages/lane_detection_data_loader
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/cmake/lane_detection_data_loaderConfig.cmake
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/cmake/lane_detection_data_loaderConfig-version.cmake
+-- Symlinking: /home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/install/lane_detection_data_loader/share/lane_detection_data_loader/package.xml

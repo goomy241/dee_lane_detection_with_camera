@@ -1,0 +1,20 @@
+[01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:[m[K In constructor ‘[01m[Klane_detection_data_loader::lane_detection_data_loader()[m[K’:
+[01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:59:29:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid avcodec_register_all()[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+   59 |         [01;35m[Kavcodec_register_all()[m[K;
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~^~[m[K
+In file included from [01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:41[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:2767:6:[m[K [01;36m[Knote: [m[Kdeclared here
+ 2767 | void [01;36m[Kavcodec_register_all[m[K(void);
+      |      [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:[m[K In member function ‘[01m[Kvoid lane_detection_data_loader::decodeFrame(uint8_t*, int)[m[K’:
+[01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:221:36:[m[K [01;35m[Kwarning: [m[K‘[01m[Kint avcodec_decode_video2(AVCodecContext*, AVFrame*, int*, const AVPacket*)[m[K’ is deprecated [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wdeprecated-declarations-Wdeprecated-declarations]8;;[m[K]
+  221 |         len = [01;35m[Kavcodec_decode_video2(codec_context, picture, &got_picture, pkt)[m[K;
+      |               [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:41[m[K:
+[01m[K/usr/include/aarch64-linux-gnu/libavcodec/avcodec.h:3096:5:[m[K [01;36m[Knote: [m[Kdeclared here
+ 3096 | int [01;36m[Kavcodec_decode_video2[m[K(AVCodecContext *avctx, AVFrame *picture,
+      |     [01;36m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:[m[K In member function ‘[01m[Kuint64_t lane_detection_data_loader::rx_hrtime()[m[K’:
+[01m[K/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_detection_data_loader/src/lane_detection_data_loader.cpp:313:76:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[K__syscall_slong_t[m[K’ {aka ‘[01m[Klong int[m[K’} and ‘[01m[Klong long unsigned int[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+  313 |             if (clock_getres(CLOCK_MONOTONIC_COARSE, &t) == 0 && [01;35m[Kt.tv_nsec <= 1 * 1000 * 1000LLU[m[K)
+      |                                                                  [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~[m[K

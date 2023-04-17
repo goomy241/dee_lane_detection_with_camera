@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/build/lane_detection_projection/lane_detection_projection_node" "TARGETS" "lane_detection_projection_node" "DESTINATION" "lib/lane_detection_projection")

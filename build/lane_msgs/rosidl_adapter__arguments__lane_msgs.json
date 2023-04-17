@@ -1,0 +1,11 @@
+{
+  "package_name": "lane_msgs",
+  "non_idl_tuples": [
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_msgs:msg/LaneMarking.msg",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_msgs:msg/LaneMarkingArray.msg",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_msgs:msg/LaneMarkingArrayBoth.msg",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_msgs:msg/LaneMarkingProjected.msg",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_msgs:msg/LaneMarkingProjectedArray.msg",
+    "/home/dee/Downloads/autowareclass2020/code/src/08_Perception_Camera/Camera-Hands-On-Solution-WS/src/lane_msgs:msg/LaneMarkingProjectedArrayBoth.msg"
+  ]
+}
