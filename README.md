@@ -6,7 +6,7 @@ This project provides code examples for setting up and running lane detection wi
 ## Basic setup
 - Clone the repo to local ros workshop
 - Download the video captured by the front camera of a car while driving on a road from [google drive](https://drive.google.com/file/d/1x8_8fqdhw1h1oX_-HRVgyvJ3Jx4Xued0/view?usp=share_link)
-- Put it under `path/to/workshop/src/lane_detection_data_loader/` folder and unzip it
+- Put it under `path/to/workspace/src/lane_detection_data_loader/` folder and unzip it
 ## How to run it
 - Build and source the workshop
 - Open four terminals and run the following four commands separately:
